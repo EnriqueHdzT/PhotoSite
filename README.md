@@ -1,3 +1,5 @@
 # PhotoSite
 This is a Web Photo Site created in HTML, and styled with CSS.
-Take a look at it:
+<br>
+Wanna See:
+<br>
